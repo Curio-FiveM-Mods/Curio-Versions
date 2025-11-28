@@ -1,0 +1,37 @@
+{
+  "Curio-Smoke": {
+    "version": "1.0.1",
+    "download": "https://din-tebex-lenke.com/curio-smoke",
+    "changelog": "Første publiserte versjon."
+  },
+  "Curio-Tree": {
+    "version": "1.0.1",
+    "download": "https://din-tebex-lenke.com/curio-tree",
+    "changelog": "Første publiserte versjon."
+  },
+  "Curio-Catcafe": {
+    "version": "1.0.1",
+    "download": "https://din-tebex-lenke.com/curio-catcafe",
+    "changelog": "Første publiserte versjon."
+  },
+  "Curio-Blips": {
+    "version": "1.0.3",
+    "download": "https://din-tebex-lenke.com/curio-blips",
+    "changelog": "Oppdatert til 1.0.3."
+  },
+  "Curio-Coords": {
+    "version": "1.0.1",
+    "download": "https://din-tebex-lenke.com/curio-coords",
+    "changelog": "Første publiserte versjon."
+  },
+  "Curio-Mysteryegg": {
+    "version": "1.0.1",
+    "download": "https://din-tebex-lenke.com/curio-mysteryegg",
+    "changelog": "Første publiserte versjon."
+  },
+  "Curio-NPCMechanic": {
+    "version": "1.0.1",
+    "download": "https://din-tebex-lenke.com/curio-npcmechanic",
+    "changelog": "Første publiserte versjon."
+  }
+}
