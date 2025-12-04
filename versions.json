@@ -1,35 +1,50 @@
 {
-  "Curio-Smoke": {
+  "Curio-smoke": {
     "version": "2.1.1",
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "Check Discord for more info!"
   },
-  "Curio-Tree": {
+  "Curio-tree": {
     "version": "1.0.1",
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "Check Discord for more info!"
   },
-  "Curio-Catcafe": {
+  "Curio-catcafe": {
     "version": "1.0.1",
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "Check Discord for more info!"
   },
-  "Curio-Blips": {
+  "Curio-blips": {
     "version": "1.0.3",
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "Check Discord for more info!"
   },
-  "Curio-Coords": {
+  "Curio-coords": {
     "version": "1.0.1",
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "Check Discord for more info!"
   },
-  "Curio-Mysteryegg": {
+  "Curio-mysteryegg": {
     "version": "1.0.1",
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "Check Discord for more info!"
   },
-    "Curio-Treasuremaps": {
+    "Curio-treasuremaps": {
+    "version": "1.0.0",
+    "download": "https://portal.cfx.re/assets/granted-assets",
+    "changelog": "Check Discord for more info!"
+  },
+  "Curio-Auctions": {
+    "version": "1.0.0",
+    "download": "https://portal.cfx.re/assets/granted-assets",
+    "changelog": "Check Discord for more info!"
+  },
+  "Curio-fitness": {
+    "version": "1.0.0",
+    "download": "https://portal.cfx.re/assets/granted-assets",
+    "changelog": "Check Discord for more info!"
+  },
+  "Curio-Stocks": {
     "version": "1.0.0",
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "Check Discord for more info!"
@@ -40,5 +55,6 @@
     "changelog": "Check Discord for more info!"
   }
 }
+
 
 
