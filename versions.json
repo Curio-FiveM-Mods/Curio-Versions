@@ -29,7 +29,12 @@
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "Check Discord for more info!"
   },
-    "Curio-treasuremaps": {
+  "Curio-pearls": {
+    "version": "1.0.0",
+    "download": "https://portal.cfx.re/assets/granted-assets",
+    "changelog": "Check Discord for more info!"
+  },
+  "Curio-jobcenter": {
     "version": "1.0.0",
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "Check Discord for more info!"
@@ -40,6 +45,7 @@
     "changelog": "Check Discord for more info!"
   }
 }
+
 
 
 
