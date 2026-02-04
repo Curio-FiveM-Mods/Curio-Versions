@@ -39,12 +39,18 @@
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "Check Discord for more info!"
   },
+  "Curio-carwash": {
+    "version": "1.0.0",
+    "download": "https://portal.cfx.re/assets/granted-assets",
+    "changelog": "Check Discord for more info!"
+  },
   "Curio-NPCMechanic": {
     "version": "1.0.1",
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "Check Discord for more info!"
   }
 }
+
 
 
 
